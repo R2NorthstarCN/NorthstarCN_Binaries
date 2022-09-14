@@ -1,1 +1,1 @@
--multiple -novid -language tchinese -msinsecure
+-multiple -novid -language tchinese
